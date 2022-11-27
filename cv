@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Keivo - CV</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+
+
+</head>
+
+<body>
+
+
+<div id="container">
+
+<!--cv-->
+    <div id="parmani">
+    	<h1>Par Mani!</h1>
+        <div class="top-divider"></div>
+        <div class="content">
+        	<img src="images/MIEGAINS.jfif" />
+            <h2>Keivo Zazītis</h2>
+            <p>Es mācos Rīgas Valsts tehnikumā par programmēšanas tehniķi, un ceru ka pabeigšu skolu kā programmētājs, pagaidām neko daudz nesaprotu, bet lēnām mācos, pa kādu kapeiku varu uztaisīt sūdīgu mājas lapu, tagat arī tādu zolīdu CV! </p> 
+        </div>
+    <div class="bottom-divider"></div> 
+    </div>
+<!--cv-->
+
+
+</body>
+</html>
